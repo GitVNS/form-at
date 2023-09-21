@@ -24,7 +24,3 @@ A collection of Input Form elements with custom Theme and design in Flutter.
 
 </td></tr> </table>
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/),
-Feel free to use the code 😉
